@@ -1,6 +1,5 @@
 from tkinter import *
 
-
 def start_main_page():
     def start_game(args):
         main_window.destroy()
