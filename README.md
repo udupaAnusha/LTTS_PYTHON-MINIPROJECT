@@ -1,1 +1,1 @@
-# LTTS_PYTHON-MINIPROJECT
+# Guessing the Word Game
