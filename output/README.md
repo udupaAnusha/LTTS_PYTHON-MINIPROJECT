@@ -1,2 +1,5 @@
+# OUTPUT OF THE PROJECT:
 
-### The output of the project files are here
+* This is the main page of the game, where the start button is present.
+
+![main page](Screenshot(21).png)
