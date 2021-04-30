@@ -6,4 +6,12 @@
   
 * This is the next screen where you can choose the category
 
-  ![main page](Screenshot(22).png)
+  ![option page](options.png)
+
+* Now i select fruits as my choice and the next screen appears.
+
+  ![](fruits.png)
+  
+* On guessting the correct answer, we get:
+
+  ![](fruitcorrect.png)
