@@ -3,3 +3,7 @@
 * This is the main page of the game, where the start button is present.
 
   ![main page](main.png)
+  
+* This is the next screen where you can choose the category
+
+  ![main page](Screenshot(22).png)
